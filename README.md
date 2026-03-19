@@ -12,6 +12,12 @@ Each animation includes a ready-to-use `.ycd` file compatible with FiveM.
 | cwalk | 8.8s | cwalk | anim |
 | cwalk extended | 19.8s | cwalk extended | anim |
 
+
+
+
+https://github.com/user-attachments/assets/8a1efafb-0781-4e6c-9320-4eb18fd3cff4
+
+
 ## How to Use
 
 1. Download the `.ycd` file
